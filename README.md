@@ -1,4 +1,11 @@
-# CyberSecurity-task3
+
+# CyberSecurity Lab 3
+
+This repository contains screenshots related to **Lab 3** of the CyberSecurity course.
+
+## Screenshots
+
+The following images demonstrate the steps or outcomes from the lab:
 
 ![photo1](1.png)
 
